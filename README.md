@@ -52,4 +52,7 @@ This repository documents my bootcamp journey, including:
 
 ## 🚀 Let’s Connect
 
-Feel free to explore, fork, or reach out if you’re also learning or working in data! 😊
+If you're hiring or interested in a collaboration, feel free to reach out!
+
+- 📧 [Email](mailto:thodsaphol.cha@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355)   
