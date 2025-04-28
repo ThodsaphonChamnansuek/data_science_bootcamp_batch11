@@ -1,4 +1,4 @@
-# Data Science Bootcamp Batch 11 ✌️
+# Data Science Bootcamp Batch 11 🛢️
 
 Welcome to my journey through **Data Science Bootcamp Batch 11** – a 4-month intensive program covering a wide range of essential tools and skills for aspiring data professionals.
 
